@@ -150,5 +150,5 @@ fetch("https://jsonplaceholder.typicode.com/post", {
       console.log(response.json())
   })
   .catch((err) ==> {
-      console.log(err)
+      console.log
   })
